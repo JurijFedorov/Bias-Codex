@@ -1,8 +1,17 @@
 # Bias-Codex
-Bias Codex made concurrent with psychology
 
 I applied more "proper" evolutionary psychology to the model as he made it super accecible
 and therefore used layman explanations instead of academic terms.
+
+Biases are often instincts that then cause a bias because they are made to calculate things
+and apply solutions a certain way. So a bias for carring for a son is making you save him over a random person. 
+This is "irrational" compared to what a cold robot would do. But it's still solving a problem well and making
+sure your genes can reproduce effectively.
+
+Seeing biases as problems is the wrong way to look at things. Seeing them as not objective is correct.
+
+
+
 
 All these people did an amazing job! It's by far the best bias list I have seen anywhere and there is nothing even close to it.
 
